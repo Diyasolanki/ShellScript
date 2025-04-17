@@ -2,7 +2,7 @@
 
 <<readme
 	this is script for backup with 5 day rotation 
-	backup rotation refers to the strategy of managing and replacing old backups with new ones in a structured wa	     y to save disk space
+	backup rotation refers to the strategy of managing and replacing old backups with new ones in a structured way to save disk space
 
 	Syntax : 
 		./filenm.sh <path to your source> <path to your backup folder>
